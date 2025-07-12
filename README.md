@@ -54,6 +54,3 @@ El algoritmo de relleno está optimizado usando un bounding box para recorrer so
 
 Puedes cambiar colores, puntos y más dentro de main.rs.
 
-### 4. Imagen generada
-![out](out.png)
-
