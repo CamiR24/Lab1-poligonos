@@ -11,21 +11,7 @@ Este proyecto implementa un rasterizador simple de líneas y polígonos en Rust 
 
 ---
 
-### 1. Estructura del proyecto
-
-├── src/
-│   ├── main.rs
-│   ├── framebuffer.rs
-│   ├── line.rs
-│   └── utils.rs
-├── target/
-├── Cargo.lock
-├── Cargo.toml
-├── .gitignore
-├── README.md
-└── out.png  (se genera al correr el programa)
-
-### 2. Inicializa el proyecto de Rust
+### 1. Inicializa el proyecto de Rust
 
 ```bash
 cargo init
@@ -38,7 +24,7 @@ raylib = "3.7"
 cargo run
 ```
 
-### 3. Requisitos
+### 2. Requisitos
 
 Rust
 
