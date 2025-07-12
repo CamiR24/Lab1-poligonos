@@ -108,5 +108,5 @@ fn main() {
     framebuffer.set_current_color(Color::DARKBLUE);
     draw_polygon(&mut framebuffer, &polygon_points5);
 
-    framebuffer.render_to_file("polygons.png");
+    framebuffer.render_to_file("out.png");
 }
